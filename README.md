@@ -17,7 +17,6 @@ Everyday, I get to implement cool solutions that make the world go round. The ar
 - 🔭 I’m currently learning software engineering at [ALX](https://www.alxafrica.com/software/)
 - 📝 I write technical articles regularly [Medium](https://medium.com/@beldinemoturi)
 - 👯 I am keen on collaborating on Data Science/ Machine learning projects
-- 💬 Ask me about ...
 
 
 <!--
