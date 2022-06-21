@@ -15,6 +15,7 @@ Everyday, I get to implement cool solutions that make the world go round. The ar
 <a href="https://www.instagram.com/beldine_moturi/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
 <a href="http://instagram.com/mishmanners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
 
+- 🔭 I'm currently working on my [portfolio project](https://github.com/Beldine-Moturi/CreativesConnect), a complete web application, integrating database storage, a back-end API, and front-end interface.
 - 🔭 I’m currently learning software engineering at [ALX](https://www.alxafrica.com/software/)
 - 📝 I write technical articles regularly [Medium](https://medium.com/@beldinemoturi)
 - 👯 I am keen on collaborating on Data Science/ Machine learning projects
