@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Beldine Moturi</h1>
 
-<img src="![image](https://images.unsplash.com/photo-1581833971358-2c8b550f87b3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80)"/>
+<img src="https://images.unsplash.com/photo-1581833971358-2c8b550f87b3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80)"/>
 
 Everyday, I get to implement cool solutions that make the world go round. The art of problem solving has never really meant much to me until I became a software engineer. Odly enough, it is the same principles in problem solving that I use when [writing.](https://medium.com/@beldinemoturi)
 
