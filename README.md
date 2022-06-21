@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Beldine Moturi</h1>
 
-<img src="https://images.unsplash.com/photo-1581833971358-2c8b550f87b3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80)"/>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://images.unsplash.com/photo-1581833971358-2c8b550f87b3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80" height="100" /></a>
 
 Everyday, I get to implement cool solutions that make the world go round. The art of problem solving has never really meant much to me until I became a software engineer. Odly enough, it is the same principles in problem solving that I use when [writing.](https://medium.com/@beldinemoturi)
 
@@ -34,6 +34,6 @@ Everyday, I get to implement cool solutions that make the world go round. The ar
 - [How the Unix Shell Interprets and Executes Commands](https://medium.com/@beldinemoturi/how-the-unix-shell-interprets-and-executes-commands-fc3351de0802?source=rss-4511335ba1c6------2)
 <!-- BLOG-POST-LIST:END -->
   
-[![Beldine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beldine-Moturi)](https://github.com/anuraghazra/github-readme-stats)
+![Beldine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beldine-Moturi&show_icons=true&theme=dark)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Beldine-Moturi&theme=dark)](https://git.io/streak-stats)
