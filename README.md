@@ -8,12 +8,6 @@ Everyday, I get to implement cool solutions that make the world go round. The ar
 ### Languages ad tools
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beldine-Moturi&theme=tokyonight)
 
-
-[![Beldine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beldine-Moturi)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Beldine-Moturi&theme=dark)](https://git.io/streak-stats)
-
-
 ### Find me all around the web
 <p align="left">
 <a href="https://twitter.com/BeldineMoturi" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
@@ -21,14 +15,15 @@ Everyday, I get to implement cool solutions that make the world go round. The ar
 <a href="https://www.instagram.com/beldine_moturi/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
 <a href="http://instagram.com/mishmanners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
 
-<!--
-**Beldine-Moturi/Beldine-Moturi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 - 🔭 I’m currently learning software engineering at [ALX](https://www.alxafrica.com/software/)
 - 📝 I write technical articles regularly [Medium](https://medium.com/@beldinemoturi)
 - 👯 I am keen on collaborating on Data Science/ Machine learning projects
 - 💬 Ask me about ...
+
+
+<!--
+**Beldine-Moturi/Beldine-Moturi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -38,3 +33,7 @@ Everyday, I get to implement cool solutions that make the world go round. The ar
 - [Data Structures: Stacks and Queues](https://medium.com/@beldinemoturi/data-structures-stacks-and-queues-35908a111999?source=rss-4511335ba1c6------2)
 - [How the Unix Shell Interprets and Executes Commands](https://medium.com/@beldinemoturi/how-the-unix-shell-interprets-and-executes-commands-fc3351de0802?source=rss-4511335ba1c6------2)
 <!-- BLOG-POST-LIST:END -->
+  
+[![Beldine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beldine-Moturi)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Beldine-Moturi&theme=dark)](https://git.io/streak-stats)
