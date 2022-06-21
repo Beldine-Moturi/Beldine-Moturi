@@ -32,4 +32,9 @@ Everyday, I get to implement cool solutions that make the world go round. The ar
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to: Incident report/Postmortem](https://medium.com/@beldinemoturi/how-to-incident-report-postmortem-858d8de57d32?source=rss-4511335ba1c6------2)
+- [Web Infrastructure Design](https://medium.com/@beldinemoturi/web-infrastructure-design-80da33de9480?source=rss-4511335ba1c6------2)
+- [The OSI Model Explained](https://medium.com/@beldinemoturi/the-osi-model-explained-f9c132fc5b99?source=rss-4511335ba1c6------2)
+- [Data Structures: Stacks and Queues](https://medium.com/@beldinemoturi/data-structures-stacks-and-queues-35908a111999?source=rss-4511335ba1c6------2)
+- [How the Unix Shell Interprets and Executes Commands](https://medium.com/@beldinemoturi/how-the-unix-shell-interprets-and-executes-commands-fc3351de0802?source=rss-4511335ba1c6------2)
 <!-- BLOG-POST-LIST:END -->
