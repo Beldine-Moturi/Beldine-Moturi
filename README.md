@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Beldine Moturi</h1>
 
 
-Everyday, I get to implement cool solutions that make the world go round. The art of problem solving has never really meant much to me until I became a software engineer. Odly enough, it is the same principles in problem solving that I use when [writing.](https://medium.com/@beldinemoturi)
+Everyday, I get to implement cool solutions that make the world go round. The art of problem solving has never really meant much to me until I became a software engineer. Interesting enough, it is the same principles in problem solving that I use when [writing.](https://medium.com/@beldinemoturi)
 
 
 ### Languages ad tools
